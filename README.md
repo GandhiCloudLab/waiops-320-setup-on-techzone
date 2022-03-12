@@ -8,7 +8,7 @@ Provision a IBM RedHat Openshift Kubernetes Service (ROKS) cluster on TezhZone u
  
 ## 2. Install Watson AIOps 3.2.1 on ROKS
 
-Install IBM Cloud Pak for Watson AIOps 3.2.1 on ROKS using the steps given [here](./02-provision-roks-on-techzone)
+Install IBM Cloud Pak for Watson AIOps 3.2.1 on ROKS using the steps given [here](./02-install-w321-on-roks)
  
 ## 3. Setup Watson AIOps Demo with iLender App
 
