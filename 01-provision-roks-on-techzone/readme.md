@@ -28,7 +28,7 @@ Login into techzone using the URL https://techzone.ibm.com/
 1. Choose `Reserve Now`
 <img src="images/image-00008.png">
 
-1. Enter all the fields values as given in screenshot. 
+2. Enter all the fields values as given in screenshot. 
 - Purpose: It can be Test or POC
 - Worker Node Count : 5
 - Worker Node Flavour : b3c.16x64
